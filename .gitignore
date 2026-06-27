@@ -1,0 +1,7 @@
+__pycache__/
+.idea/
+.venv/
+log/*
+*.pth
+*.h5
+*.tar
